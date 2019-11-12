@@ -1,0 +1,12 @@
+Integrantes:
+
+Gonzalez Michelle
+Marquez Mara
+Montaño Mayra
+
+
+
+Aportación:
+
+Todos los integrantes del equipo colaboraron en:
+Codigo en python y arduino, conexiones
